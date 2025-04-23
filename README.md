@@ -1,16 +1,22 @@
-# TANGI Community Marketing Assets Repository
+# üåø TANGI Community Marketing Assets Repository
+
+<div align="center">
+  <img src="./Images/Tangi-Token-Revolutionizing-Cannabis-Commerce-with-Blockchain.png" alt="TANGI Token Banner" width="800"/>
+  <p><em>Revolutionizing Cannabis Commerce with Blockchain Technology</em></p>
+</div>
 
 Welcome to the official repository for TANGI crypto project marketing assets. This repository serves as a centralized location for all marketing materials related to the TANGI project.
 
-## ?ìÅ Repository Structure
+## üìÇ Repository Structure
 
 This repository is organized into the following categories:
 
-- **[social-media](./social-media)**: Templates and assets for social media posts
-- **[videos](./videos)**: Promotional videos, tutorials, and animations
-- **[documents](./documents)**: Whitepapers, presentations, and other text-based materials
+- **[Images](./Images/)**: Logos, banners, infographics, and promotional images
+- **[Videos](./videos/)**: Promotional videos, tutorials, and animations
+- **[Documents](./documents/)**: Whitepapers, presentations, and other text-based materials
+- **[Links](./Links/)**: Important external resources and articles
 
-## ?îç How to Use This Repository (For Non-Technical Users)
+## üîç How to Use This Repository (For Non-Technical Users)
 
 You don't need to install Git or have technical knowledge to use this repository. Here's how to access and download assets:
 
@@ -34,7 +40,7 @@ You don't need to install Git or have technical knowledge to use this repository
 2. Select "Download ZIP" from the dropdown menu
 3. Once downloaded, extract the ZIP file to access all the assets
 
-## ?§? Contributing Assets
+## ü§ù Contributing Assets
 
 If you're a community member who wants to contribute marketing assets:
 
@@ -49,12 +55,9 @@ If you're a community member who wants to contribute marketing assets:
 
 ### For Technical Contributors
 
-1. Fork this repository
-2. Create a new branch for your contribution
-3. Add your assets to the appropriate folders
-4. Submit a pull request with a clear description of your additions
+Please refer to our [contribution guidelines](./CONTRIBUTING.md) for detailed instructions on how to contribute using Git.
 
-## ?ìã Asset Guidelines
+## üìã Asset Guidelines
 
 When contributing assets, please follow these guidelines:
 
@@ -74,7 +77,7 @@ When contributing assets, please follow these guidelines:
    - Videos should be at least 720p resolution
    - All assets should follow the TANGI brand guidelines
 
-## ?îÑ Version Control
+## üîÑ Version Control
 
 All assets in this repository are version-controlled, meaning:
 
@@ -82,7 +85,7 @@ All assets in this repository are version-controlled, meaning:
 - Changes can be tracked over time
 - Deleted assets can be recovered
 
-## ?ì¢ Requesting New Assets
+## üí° Requesting New Assets
 
 If you need a specific marketing asset that isn't available:
 
@@ -92,10 +95,32 @@ If you need a specific marketing asset that isn't available:
 4. Provide details about the asset you need
 5. Submit the issue for the team to review
 
-## ?ìù License
+## üì± Featured Assets
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="./Images/Disrupting-the-Cannabis-Industry-with-Blockchain 8 images Thread/1_Disrupting-the-Cannabis-Industry-with-Blockchain.png" width="300" alt="Disrupting the Cannabis Industry"/>
+        <br/>
+        <em>Disrupting the Cannabis Industry</em>
+      </td>
+      <td align="center">
+        <img src="./Images/TangiPublicWindow/GpJ0_niWQAAJGHe.jpg" width="300" alt="TANGI Public Window"/>
+        <br/>
+        <em>TANGI Public Window</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## üìú License
 
 All assets in this repository are property of the TANGI project and are subject to the licensing terms specified in the [LICENSE](./LICENSE) file.
 
-# 
-
 ---
+
+<div align="center">
+  <p>For more information about TANGI, visit our <a href="https://github.com/TANGI-crypto">GitHub Organization</a></p>
+  <p>¬© 2025 TANGI Project. All Rights Reserved.</p>
+</div>

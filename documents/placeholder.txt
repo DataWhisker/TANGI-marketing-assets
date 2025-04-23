@@ -1,0 +1,9 @@
+This is a placeholder file to ensure the documents folder is included in the Git repository.
+
+In a real repository, this folder would contain:
+- Whitepapers and technical documentation
+- Presentation slide decks
+- User guides and tutorials
+- Press releases and media kits
+
+Please refer to the README.md file in this folder for guidelines on adding document assets.

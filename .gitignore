@@ -1,0 +1,55 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Design software files
+*.psd
+*.ai
+*.sketch
+*.fig
+*.xd
+*.afdesign
+*.afphoto
+
+# Video editing project files
+*.prproj
+*.aep
+*.drp
+*.fcpx
+*.fcpbundle
+
+# Temporary files
+*.tmp
+*~
+*.bak
+*.swp
+
+# Large binary files (use Git LFS instead)
+# Uncomment if Git LFS is set up
+# *.mp4
+# *.mov
+# *.psd
+# *.ai
+
+# Build and automation files
+node_modules/
+.sass-cache/
+.npm/
+.env
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,11 @@
+This is a placeholder file to ensure the videos folder is included in the Git repository.
+
+In a real repository, this folder would contain:
+- Promotional videos showcasing TANGI features
+- Tutorial videos explaining how to use TANGI
+- Animated explainer videos
+- Team interviews and community updates
+
+Please refer to the README.md file in this folder for guidelines on adding video assets.
+
+Note: Large video files should use Git LFS or be linked from external hosting services.

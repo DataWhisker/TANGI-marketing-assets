@@ -1,11 +1,32 @@
-# 🌿 TANGI Community Marketing Assets Repository
+# 🌿 TANGI Community Marketing Assets Repository (Unoffical)
 
 <div align="center">
   <img src="./Images/Tangi-Token-Revolutionizing-Cannabis-Commerce-with-Blockchain.png" alt="TANGI Token Banner" width="800"/>
   <p><em>Revolutionizing Cannabis Commerce with Blockchain Technology</em></p>
 </div>
 
-Welcome to the official repository for TANGI crypto project marketing assets. This repository serves as a centralized location for all marketing materials related to the TANGI project.
+# **Welcome to the Community repository for TANGI crypto project marketing assets.**
+
+ This repository serves as a centralized location for all marketing materials related to the TANGI project. This is not TANGI offical and is for the community to share the great project with others.
+
+
+
+### **Disclaimer**
+
+The marketing resources in this repository are provided solely for informational and educational purposes to assist the community in creating content for social media and other platforms. These materials are not, and should not be construed as, financial, investment, legal, or tax advice. 
+
+Cryptocurrency investments involve significant risks, including the potential for substantial financial loss. Token values are highly volatile, and past performance does not guarantee future results. Individuals considering any actions related to cryptocurrencies must conduct their own due diligence and consult qualified financial, legal, and tax professionals before making decisions.
+
+
+The creator(s) of this repository are not liable for any actions taken by individuals or entities based on the use of these resources. By using these materials, you acknowledge that you are solely responsible for your decisions and any resulting consequences. Users are responsible for ensuring compliance with all applicable laws and regulations in their respective jurisdictions, as cryptocurrency regulations vary widely across countries and regions.
+
+
+We strongly encourage users to exercise caution when sharing content derived from these resources. Avoid making claims or statements that could be interpreted as financial advice, guarantees of returns, or promises of future performance to minimize legal and regulatory risks.
+
+
+***Short Disclaimer for Community Social Media Posts***
+
+This content is for informational purposes only and is not financial, investment, or legal advice. Cryptocurrency investments are highly risky and volatile. Always conduct your own research and consult professionals before making decisions.
 
 ## 📂 Repository Structure
 
@@ -117,10 +138,3 @@ If you need a specific marketing asset that isn't available:
 ## 📜 License
 
 All assets in this repository are property of the TANGI project and are subject to the licensing terms specified in the [LICENSE](./LICENSE) file.
-
----
-
-<div align="center">
-  <p>For more information about TANGI, visit our <a href="https://github.com/TANGI-crypto">GitHub Organization</a></p>
-  <p>© 2025 TANGI Project. All Rights Reserved.</p>
-</div>

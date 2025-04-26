@@ -1,7 +1,7 @@
 # 🌿 TANGI Community Marketing Assets Repository (Unofficial)
 
 <div align="center">
-  <img src="./Images/Tangi-Token-Revolutionizing-Cannabis-Commerce-with-Blockchain.png" alt="TANGI Token Banner" width="800"/>
+  <img src="./Images/DW Tangi-Token-Revolutionizing-Cannabis.png" alt="TANGI Token Banner" width="800"/>
   <p><em>Revolutionizing Cannabis Commerce with Blockchain Technology</em></p>
 </div>
 
@@ -100,7 +100,7 @@ If you need a specific marketing asset that isn't available:
   <table>
     <tr>
       <td align="center">
-        <img src="./Images/Disrupting-the-Cannabis-Industry-with-Blockchain 8 images Thread/1_Disrupting-the-Cannabis-Industry-with-Blockchain.png" width="300" alt="Disrupting the Cannabis Industry"/>
+        <img src="./Images/DW Disrupting-the-Cannabis-Industry-with-Blockchain 8 images Thread/1_Disrupting-the-Cannabis-Industry-with-Blockchain.png" width="300" alt="Disrupting the Cannabis Industry"/>
         <br/>
         <em>Disrupting the Cannabis Industry</em>
       </td>

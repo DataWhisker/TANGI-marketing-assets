@@ -105,7 +105,7 @@ If you need a specific marketing asset that isn't available:
         <em>Disrupting the Cannabis Industry</em>
       </td>
       <td align="center">
-        <img src="./Images/TangiPublicWindow/GpJ0_niWQAAJGHe.jpg" width="300" alt="TANGI Public Window"/>
+        <img src="./Images/DW TangiPublicWindow/GpJ0_niWQAAJGHe.jpg" width="300" alt="TANGI Public Window"/>
         <br/>
         <em>TANGI Public Window</em>
       </td>
